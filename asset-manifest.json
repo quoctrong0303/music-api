@@ -1,13 +1,11 @@
 {
   "files": {
-    "main.css": "/music-api/static/css/main.08e32b78.css",
-    "main.js": "/music-api/static/js/main.115d117f.js",
-    "index.html": "/music-api/index.html",
-    "main.08e32b78.css.map": "/music-api/static/css/main.08e32b78.css.map",
-    "main.115d117f.js.map": "/music-api/static/js/main.115d117f.js.map"
+    "main.css": "/music-api/static/css/main.b44cb0be.css",
+    "main.js": "/music-api/static/js/main.d5421f3a.js",
+    "index.html": "/music-api/index.html"
   },
   "entrypoints": [
-    "static/css/main.08e32b78.css",
-    "static/js/main.115d117f.js"
+    "static/css/main.b44cb0be.css",
+    "static/js/main.d5421f3a.js"
   ]
 }
