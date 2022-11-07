@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/music-api/static/css/main.b44cb0be.css",
-    "main.js": "/music-api/static/js/main.d5421f3a.js",
+    "main.css": "/music-api/static/css/main.675f1e44.css",
+    "main.js": "/music-api/static/js/main.1f64ad1d.js",
     "index.html": "/music-api/index.html"
   },
   "entrypoints": [
-    "static/css/main.b44cb0be.css",
-    "static/js/main.d5421f3a.js"
+    "static/css/main.675f1e44.css",
+    "static/js/main.1f64ad1d.js"
   ]
 }
